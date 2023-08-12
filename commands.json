@@ -9,6 +9,14 @@
     "clear H8",
     "clear A7",
     "clear D2",
-    "clear F3"
+    "clear F3",
+    "flag C4",
+    "flag B1",
+    "clear A1",
+    "flag B6",
+    "flag B7",
+    "clear B8",
+    "flag A8",
+    "clear D4"
   ]
 }
